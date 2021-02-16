@@ -223,7 +223,8 @@ domain_destination_file_list = {
     'Obs/Procedure'         : DESTINATION_FILE_PROCEDURE,
     'Observation'           : DESTINATION_FILE_OBSERVATION,
     'Procedure'             : DESTINATION_FILE_PROCEDURE,
-    'Visit'                 : DESTINATION_FILE_VISIT
+    'Visit'                 : DESTINATION_FILE_VISIT,
+    'Place of Service'      : DESTINATION_FILE_VISIT
     }
 
 # -----------------------------------
